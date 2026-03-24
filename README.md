@@ -7,7 +7,7 @@ Reproducibility repository for the manuscript **A Modular Framework for Episode 
 ```text
 .
 └── notebooks/
-    ├── your_notebook.ipynb
+    ├── Episodic_framework_case_study.ipynb
     └── data.zip
 
 ```
@@ -27,4 +27,4 @@ The case study uses the open Series production data set for 5-axis CNC milling p
 Engelmann, B., & Schmitt, A.-M. (2024). Series production data set for 5-axis CNC milling. Zenodo. https://doi.org/10.5281/zenodo.10853254
 
 ## Original framework source:
-will be soon
+in pub-process
