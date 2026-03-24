@@ -1,0 +1,11 @@
+jupyterlab
+notebook
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+seaborn
+hdbscan
+umap-learn
+statsmodels

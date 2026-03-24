@@ -1,0 +1,18 @@
+name: modular-episode-segmentation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - pip
+  - pip:
+      - hdbscan
+      - umap-learn
