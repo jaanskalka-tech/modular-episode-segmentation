@@ -1,4 +1,4 @@
-# Modular Framework for Episode Segmentation
+# Segmentation-based Episodic Representation Framework
 
 Reproducibility repository for the manuscript **A Segmentation-based Episodic Representation Framework for Cross-Design Comparison in Multi-Mode Industrial Time Series**.
 
